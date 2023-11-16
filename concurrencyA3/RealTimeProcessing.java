@@ -200,7 +200,7 @@ private void processImageMultiThread() {
 public static void main(String[] args) {
     try (Scanner scanner = new Scanner(System.in)) {
         
-        System.out.println("Enter image file path, square size, and processing mode (S or M:");
+        System.out.println("Enter image file path, square size, and processing mode (S or M):");
         String[] input = scanner.nextLine().split(" ");
 
         String imagePath = input[0];
