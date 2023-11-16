@@ -13,11 +13,10 @@ Saving the Output: The final image is saved as "result.jpg" in the project direc
 
 ## HOW TO RUN THE CODE?
 1. Copy these 2 lines and paste it to the terminal :
-2. 
 javac RealTimeProcessing.java   
 java RealTimeProcessing   
 
-3. Or run it manually
+2. Or run it manually
 Open the RealProcessingTime.java code file on vscode
 and there is a run command on the top right corner.
 Choose "Run Java" if you run it for the first time, otherwise choose "Run Code" option.
